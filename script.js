@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const searchInput = document.getElementById('search-input');
+    const searchInput = document.getElementById('search_input');
     const searchButton = document.getElementById('search-button');
     const clearHistoryButton = document.getElementById('clear-history-button');
     const searchHistoryList = document.getElementById('search-history');
